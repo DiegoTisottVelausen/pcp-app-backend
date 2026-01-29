@@ -32,7 +32,7 @@ app.get("/erp/ordens", async (req, res) => {
         produto: "PROD-001",
         operacao: "Corte",
         horas: 2.5,
-        dataEntrega: "2026-02-06"
+        dataEntrega: "2026-02-02"
       },
       {
         id: 102,
